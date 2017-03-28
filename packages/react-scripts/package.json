@@ -1,8 +1,8 @@
 {
-  "name": "react-scripts",
+  "name": "@namics-projects/migros-impuls-coach-react-scripts",
   "version": "0.9.5",
   "description": "Configuration and scripts for Create React App.",
-  "repository": "facebookincubator/create-react-app",
+  "repository": "dmodalek/create-react-app",
   "license": "BSD-3-Clause",
   "engines": {
     "node": ">=4"
